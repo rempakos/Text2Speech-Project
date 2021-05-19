@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-13">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/zarras/freetts-1.2/lib/cmu_time_awb.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/zarras/freetts-1.2/lib/cmu_us_kal.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/zarras/freetts-1.2/lib/cmudict04.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/zarras/freetts-1.2/lib/cmulex.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/zarras/freetts-1.2/lib/cmutimelex.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/zarras/freetts-1.2/lib/en_us.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/zarras/freetts-1.2/lib/freetts.jar" sourcepath="C:/Users/stabp/Desktop/freeTTS/freetts-1.2/lib/freetts.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/zarras/freetts-1.2/lib/freetts-jsapi10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/zarras/freetts-1.2/lib/mbrola.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/zarras/commons-io-2.8.0/commons-io-2.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/zarras/commons-io-2.8.0/commons-io-2.8.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/zarras/commons-io-2.8.0/commons-io-2.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/zarras/commons-io-2.8.0/commons-io-2.8.0-tests.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/zarras/commons-io-2.8.0/commons-io-2.8.0-test-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/zarras/poi-5.0.0/poi-5.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/zarras/poi-5.0.0/poi-examples-5.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/zarras/poi-5.0.0/poi-excelant-5.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/zarras/poi-5.0.0/poi-integration-5.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/zarras/poi-5.0.0/poi-ooxml-5.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/zarras/poi-5.0.0/poi-ooxml-full-5.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/zarras/poi-5.0.0/poi-ooxml-lite-5.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/zarras/poi-5.0.0/poi-scratchpad-5.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/zarras/poi-5.0.0/lib/commons-codec-1.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/zarras/poi-5.0.0/lib/commons-collections4-4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/zarras/poi-5.0.0/lib/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/zarras/poi-5.0.0/lib/SparseBitSet-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/zarras/poi-5.0.0/ooxml-lib/commons-compress-1.20.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/zarras/poi-5.0.0/ooxml-lib/curvesapi-1.06.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/zarras/poi-5.0.0/ooxml-lib/xmlbeans-4.0.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
