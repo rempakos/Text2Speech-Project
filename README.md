@@ -1,3 +1,5 @@
+![image](https://github.com/rempakos/Text2Speech-Project/assets/44623491/3bdd9326-024a-4e08-ad99-0dc9d655a914)
+
 # Text-to-Speech Application Readme
 
 This Java-based Text-to-Speech (TTS) application allows users to open, edit, save, and transform the contents of different file types into audio. It provides various features to customize audio parameters, record transformation actions, and replay them. Below are the user stories/use cases and their corresponding implementation timeline:
